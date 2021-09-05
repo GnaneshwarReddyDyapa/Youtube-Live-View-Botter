@@ -8,7 +8,7 @@ Then Run YTBot.exe As Administrator
 
 
 Steps To Use:-
-1. Download The File From My Official Repository https://github.com/GnaneshwarReddyDyapa/Youtube-Live-View-Botter/releases/tag/v3.0.2
+1. Download The File From My Official Repository https://github.com/GnaneshwarReddyDyapa/Youtube-Live-View-Botter/releases/tag/v3.0.2 ![#DevFestIndia_badge](https://user-images.githubusercontent.com/89586593/132130466-8288f4d5-4188-4d14-bb03-26124b309595.png)
 2. Unzip The Files
 3. Run updater.exe
 4. Run YTBot.exe
