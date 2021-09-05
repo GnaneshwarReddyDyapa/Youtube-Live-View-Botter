@@ -20,6 +20,9 @@ Steps To Use:-
 Fix:- After Some Time The views Stop Increasing Then Stop The Bot And Re-run It.
 
 
+EDIT:- (Note - Please Make Sure That Your Live Stream Is In Public Mode If Not The Bot Will Not Run)
+
+
 If You Like My Projects Share It With Your Friends
                                             
                                             MAde With ♥ By Gnaneshwar Reddy.Dyapa
